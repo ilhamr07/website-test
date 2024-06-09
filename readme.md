@@ -1,6 +1,2 @@
-ini adalah
-data 
-untuk belajar
-git
-
-nambah data baru ahh
+Website Baru ni
+================
