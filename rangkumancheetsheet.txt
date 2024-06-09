@@ -1,0 +1,28 @@
+alur git 
+    1. git add . //untuk menambahkan data 
+    2. git status //cek status git apakah sudah dilakukan git add belum
+    3. git commit -m "(pesan commitnya apa)"
+
+menambahkan branch 
+    < git checkout -b (nama_branch)
+    < git branch (nama_branch)
+
+masuk ke branch 
+    < git switch (nama_branch)
+
+hapus branch
+    < git branch -d nama_branch
+
+cara merge
+    < masuk ke branch master/utama
+    < git merge (data dari branch mana mau di merge)
+        "git merge payment"
+    < instruksi commit merge
+        1. press i (i for insert)
+        2. write your merge message
+        3. press esc (escape)
+        4. write :wq (write & Quit)
+        5. press enter
+
+
+
