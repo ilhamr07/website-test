@@ -24,5 +24,10 @@ cara merge
         4. write :wq (write & Quit)
         5. press enter
 
+cara menambahkan data pertama ke github
+    < git push -u origin master
+
+cara menambahkan data lanjutan ke github
+    < git push
 
 
