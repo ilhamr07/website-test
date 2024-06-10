@@ -33,3 +33,4 @@ cara menambahkan data lanjutan ke github
 cara mengupdata terbaru dari cloude karna lokal ketinggalan
     < git pull
 
+//ini tambah dari local
