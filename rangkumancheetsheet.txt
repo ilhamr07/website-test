@@ -34,3 +34,4 @@ cara mengupdata terbaru dari cloude karna lokal ketinggalan
     < git pull
 
 //ini tambah dari local
+//data ini dari cloud lagi
