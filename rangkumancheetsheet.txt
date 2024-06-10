@@ -30,4 +30,6 @@ cara menambahkan data pertama ke github
 cara menambahkan data lanjutan ke github
     < git push
 
+cara mengupdata terbaru dari cloude karna lokal ketinggalan
+    < git pull
 
